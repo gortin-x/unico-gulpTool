@@ -1,0 +1,40 @@
+{
+  "name": "unico",
+  "version": "1.0.0",
+  "description": "unico",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "gulp"
+  },
+  "author": "suen",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "@babel/register": "^7.0.0",
+    "@types/gulp-babel": "^6.1.29",
+    "accord": "^0.29.0",
+    "ansi-cyan": "^0.1.1",
+    "ansi-red": "^0.1.1",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "browser-sync": "^2.26.3",
+    "del": "^3.0.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-eslint": "^5.0.0",
+    "gulp-less": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-webserver": "^0.9.1",
+    "lodash": "^4.17.11",
+    "node-sass": "^4.10.0",
+    "run-sequence": "^2.2.1",
+    "when": "^3.7.8"
+  }
+}
